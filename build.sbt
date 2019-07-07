@@ -2,7 +2,7 @@ name := "WorkSpace"
 
 version := "0.1"
 
-scalaVersion := "2.11.9"
+scalaVersion := "2.11.8"
 
 
 libraryDependencies ++= Seq(
